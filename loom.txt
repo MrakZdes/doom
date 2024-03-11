@@ -6,3 +6,4 @@ docker
 docker
 git
 openai
+javascript
